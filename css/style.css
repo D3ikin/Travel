@@ -527,6 +527,7 @@ footer{
   }
   .country__box-content{
     padding: 25px 20px;
+    max-width: 220px;
   }
   .country__box-title{
     text-align: center;
